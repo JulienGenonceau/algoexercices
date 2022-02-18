@@ -43,5 +43,12 @@
  <p><input type="submit" value="OK"></p>
 </form>
 
+
+<form action="resultexo16.php" method="post">
+    <h2>Exercice 16</h2>
+ <p>Entrez votre âge afin d'être redirigé vers un site qui vous correspond : <input type="text" name="age" /></p>
+ <p><input type="submit" value="OK"></p>
+</form>
+
 </body>
 </html>
